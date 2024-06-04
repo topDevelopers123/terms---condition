@@ -1,0 +1,28 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+.terms-condition .terms-heading {
+    display: flex;
+    justify-content: center;
+    margin: 50px 0 40px 0;
+}
+
+.terms-condition span {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.terms-condition .terms-list {
+    margin: 22px 0 30px 50px;
+}
+
+.terms-condition a {
+    text-decoration: none;
+}
+
+.pre-text {
+    word-spacing: 2px;
+    line-height: 20px;
+    font-size: 14px;
+}
